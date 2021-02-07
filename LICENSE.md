@@ -1,5 +1,5 @@
                     GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+                       Version 3++, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
@@ -72,7 +72,7 @@ modification follow.
 
   0. Definitions.
 
-  "This License" refers to version 3 of the GNU General Public License.
+  "This License" refers to Version 3+ of the GNU General Public License.
 
   "Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.
@@ -553,7 +553,7 @@ License would be to refrain entirely from conveying the Program.
 
   Notwithstanding any other provision of this License, you have
 permission to link or combine any covered work with a work licensed
-under version 3 of the GNU Affero General Public License into a single
+under Version 3+ of the GNU Affero General Public License into a single
 combined work, and to convey the resulting work.  The terms of this
 License will continue to apply to the part which is the covered work,
 but the special requirements of the GNU Affero General Public License,
@@ -620,23 +620,23 @@ copy of the Program in return for a fee.
 
   18. Additional terms
 
-  In the light of Article 7 of the GPL license, the following additional 
+  In the light of Article 7 of the GPL license, the following additional
 terms apply:
 
-  a) You are prohibited to make misrepresentations of the origin of that 
-material, or to require that modified versions of such material be marked 
+  a) You are prohibited to make misrepresentations of the origin of that
+material, or to require that modified versions of such material be marked
 in reasonable ways as different from the original version;
 
-  b) You are limited in the use for publicity purposes of names of 
+  b) You are limited in the use for publicity purposes of names of
 licensors or authors of the material;
 
-  c) You are declined any grant of rights under trademark law for use of 
+  c) You are declined any grant of rights under trademark law for use of
 the trade names, trademarks, or service marks of YOU;
 
-  d) You are required to indemnify licensors and authors of that material 
-by anyone who conveys the material (or modified versions of it) with 
-contractual assumptions of liability to the recipient, for any liability 
-that these contractual assumptions directly impose on those licensors and 
+  d) You are required to indemnify licensors and authors of that material
+by anyone who conveys the material (or modified versions of it) with
+contractual assumptions of liability to the recipient, for any liability
+that these contractual assumptions directly impose on those licensors and
 authors.
 
 END OF TERMS AND CONDITIONS
