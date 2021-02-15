@@ -1,5 +1,5 @@
                     GNU GENERAL PUBLIC LICENSE
-                       Version 3+, 29 June 2007
+                       Version GLP-3.0+, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
@@ -72,7 +72,7 @@ modification follow.
 
   0. Definitions.
 
-  "This License" refers to Version 3+ of the GNU General Public License.
+  "This License" refers to Version GLP-3.0+ of the GNU General Public License.
 
   "Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.
@@ -553,7 +553,7 @@ License would be to refrain entirely from conveying the Program.
 
   Notwithstanding any other provision of this License, you have
 permission to link or combine any covered work with a work licensed
-under Version 3+ of the GNU Affero General Public License into a single
+under Version GLP-3.0+ of the GNU Affero General Public License into a single
 combined work, and to convey the resulting work.  The terms of this
 License will continue to apply to the part which is the covered work,
 but the special requirements of the GNU Affero General Public License,
