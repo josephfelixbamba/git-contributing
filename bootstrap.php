@@ -11,7 +11,7 @@
  * Plugin Name: Git Contributing
  * Plugin URI:  https://github.com/KnowTheCode/git-contributing
  * Description: "THIS WAS ADDED BY JOSEPH **  An awesome collaborative project to teach you the contributor workflow
- * for the Git Contributing hands-on coding lab.
+ * for the Git Contributing hands-on coding lab ** Since I, FELIX HAS NOTHING TO ADD , I shall leave it to that."
  * Version:     1.0.0
  * Author:      Git Contributing Team
  * Author URI:  https://KnowTheCode.io
